@@ -5,5 +5,6 @@ You can find the github page here: https://parasite42.github.io/Synapsian/ <br /
 The Tsuki Project and Systemspace are property of its owner (TsukiRep), any and all contributions that are not my own findings will be placed in the credits section below<br />
 # Credits
 <ul>
+  <li>Sanya 1127</li>
   <li>will be updated</li>
 <ul>
