@@ -1,12 +1,12 @@
 # Synapsian
-A repository for the study of the Synapsian language<br />
-This is a personal repository of information forked from Yari's repo on Synapsian. I will try to keep it up to date with information i find and learn about synapsian, as i noticed the current repository has been out of date for about 3 years now, and i have access to a broken wiki backup that is 2 years old and a more up to date website, which i will be pulling some info over from. <br />
+This is a fork of the Synapsian Research hub created by Yari, and other archivists in 2017. Following the shutdown of the systemspace website, this research hub has fallen into disrepair. It still holds useful information, i have taken it upon myself to reimplement and potentially expand on its contents.<br />
 You can find the github page here: https://parasite42.github.io/Synapsian/ <br />
 # Who are you?
-My name is Engee 3842, i'm just a sporadically curious migrant that wanted to learn a bit more, but who will say if this Repo will stay up to date?<br />
+For verification purposes, my name is Engee #3842. I forked this repo realizing that it has been out of date for at least 3 years. This is a vain attempt at trying to keep it up to date, as well as fixing and adding new images to the github pages.<br />
+# What happened to TSUKI?
+After Project Miracle Ribbon's success in 2018, the TSUKI Project remained within Active zones 1-2 until its quiet and sudden closure around the end of 2019. This confused community migrants who resided in the offically run TSUKICHAT. As of May 2020, the Tsuki Representative remains MIA.
 # Credits
 The Tsuki Project and Systemspace are property of its owner (TsukiRep), any and all contributions that are not my own findings will be placed in the credits section below<br />
 <ul>
-  <li>Sanya 1127* <sub>(*Nothing from them has been added yet and this listing may be subject to change at their request)</sub></li>
-  <li>will be updated</li>
+  <li>will be updated as credits are needed</li>
 <ul>
