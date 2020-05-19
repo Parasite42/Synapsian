@@ -2,14 +2,32 @@
     font-family: Synapsian;
     src: url(synapsian/synapsian.ttf);
 }
+
 @font-face {
     font-family: Makinas;
-    src: url(synapsian/m.otf);
+    src: url(fonts/m.otf);
+}
+
+@font-face {
+    font-family: "04b03";
+    src: url(fonts/paragraph.ttf);
 }
 
 #wrapper {
-    margin:20px auto;
-    background-color: rgba(0,0,0, 0.8);
+    margin: 25px;
+    padding: 18px;
+    background-color: #231c14d6;
+    border: 2px;
+    border-radius: 7px;
+    line-height: 1.6;
+    font-size: 14px;
+    color: #eee;
+    text-align: center;
+    animation-name: foregroundswipefrombottom;
+    animation-timing-function: ease-in-out;
+    animation-duration: 2.25s;
+    animation-iteration-count: 1;
+
 }
 
 .syn {
@@ -18,36 +36,42 @@
 }
 
 body {
-    margin:20px auto;
-    line-height:1.6;
-    font-size:14px;
-    color:#eee;
-    padding:0 10px; 
-    text-align: center;
-    background-image: url(https://systemspace.link/index.png);
-}    
- 
+    background-color: #3c2c0f;
+    padding: 0 10px;
+    background-blend-mode: hard-light;
+    background-image: url(style/dots.png);
+
+
+
+}
+
 img {
-    max-width:400px;
+    max-width: 400px;
 }
 
 p {
-    font-size: 18px;
+    font-family: "04b03";
+    font-size: 16px;
 }
 
-h1,h2,h3 { 
-    line-height:1.2;
-    text-shadow:
-       -1px -1px 0 #000,  
-       1px  -1px 0 #000,
-       -1px 1px  0 #000,
-       1px  1px  0 #000;
+a:link {
+    color: #dbc086;
 }
 
-h1{
+a:visited {
+    color: #d28080;
+}
 
-    font-family:"Makinas";
+h1,
+h2,
+h3 {
+    line-height: 1.2;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
 
+h1 {
+    font-family: 'Makinas';
 }
 
 .nonsynapsian {
